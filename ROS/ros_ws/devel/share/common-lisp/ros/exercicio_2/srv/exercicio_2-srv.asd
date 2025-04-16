@@ -1,0 +1,1 @@
+/home/ROS/ros_ws/devel/.private/exercicio_2/share/common-lisp/ros/exercicio_2/srv/exercicio_2-srv.asd

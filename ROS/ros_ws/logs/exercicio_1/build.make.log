@@ -1,0 +1,16 @@
+[35m[1mScanning dependencies of target 04_subscriber_class[0m
+[35m[1mScanning dependencies of target 02_subscriber[0m
+[35m[1mScanning dependencies of target 03_publisher_class[0m
+[35m[1mScanning dependencies of target 01_publisher[0m
+[ 25%] [32mBuilding CXX object CMakeFiles/03_publisher_class.dir/src/cpp_files/03_publisher_class.cpp.o[0m
+[ 25%] [32mBuilding CXX object CMakeFiles/04_subscriber_class.dir/src/cpp_files/04_subscriber_class.cpp.o[0m
+[ 37%] [32mBuilding CXX object CMakeFiles/01_publisher.dir/src/cpp_files/01_publisher.cpp.o[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/02_subscriber.dir/src/cpp_files/02_subscriber.cpp.o[0m
+[ 62%] [32m[1mLinking CXX executable /home/ROS/ros_ws/devel/.private/exercicio_1/lib/exercicio_1/03_publisher_class[0m
+[ 75%] [32m[1mLinking CXX executable /home/ROS/ros_ws/devel/.private/exercicio_1/lib/exercicio_1/01_publisher[0m
+[ 75%] Built target 03_publisher_class
+[ 87%] [32m[1mLinking CXX executable /home/ROS/ros_ws/devel/.private/exercicio_1/lib/exercicio_1/04_subscriber_class[0m
+[ 87%] Built target 01_publisher
+[100%] [32m[1mLinking CXX executable /home/ROS/ros_ws/devel/.private/exercicio_1/lib/exercicio_1/02_subscriber[0m
+[100%] Built target 04_subscriber_class
+[100%] Built target 02_subscriber

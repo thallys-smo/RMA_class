@@ -1,0 +1,1 @@
+/home/ROS/ros_ws/devel/.private/exercicio_1/share/exercicio_1/cmake/exercicio_1Config.cmake

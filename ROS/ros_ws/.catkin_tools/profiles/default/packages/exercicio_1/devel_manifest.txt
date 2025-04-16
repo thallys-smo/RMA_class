@@ -1,0 +1,9 @@
+exercicio_1
+/home/ROS/ros_ws/devel/.private/exercicio_1/cmake.lock /home/ROS/ros_ws/devel/./cmake.lock
+/home/ROS/ros_ws/devel/.private/exercicio_1/lib/exercicio_1/02_subscriber /home/ROS/ros_ws/devel/lib/exercicio_1/02_subscriber
+/home/ROS/ros_ws/devel/.private/exercicio_1/lib/exercicio_1/01_publisher /home/ROS/ros_ws/devel/lib/exercicio_1/01_publisher
+/home/ROS/ros_ws/devel/.private/exercicio_1/lib/exercicio_1/03_publisher_class /home/ROS/ros_ws/devel/lib/exercicio_1/03_publisher_class
+/home/ROS/ros_ws/devel/.private/exercicio_1/lib/exercicio_1/04_subscriber_class /home/ROS/ros_ws/devel/lib/exercicio_1/04_subscriber_class
+/home/ROS/ros_ws/devel/.private/exercicio_1/lib/pkgconfig/exercicio_1.pc /home/ROS/ros_ws/devel/lib/pkgconfig/exercicio_1.pc
+/home/ROS/ros_ws/devel/.private/exercicio_1/share/exercicio_1/cmake/exercicio_1Config-version.cmake /home/ROS/ros_ws/devel/share/exercicio_1/cmake/exercicio_1Config-version.cmake
+/home/ROS/ros_ws/devel/.private/exercicio_1/share/exercicio_1/cmake/exercicio_1Config.cmake /home/ROS/ros_ws/devel/share/exercicio_1/cmake/exercicio_1Config.cmake

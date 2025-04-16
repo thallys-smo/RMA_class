@@ -1,0 +1,4 @@
+<launch>
+    <node pkg="exercicio_2" type="add_two_ints_server" name="add_two_ints_server" output="screen"></node>
+    <node pkg="exercicio_2" type="add_two_ints_client" name="add_two_ints_client" output="screen" args="10 20"></node>
+</launch>

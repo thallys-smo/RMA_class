@@ -1,0 +1,8 @@
+prefix=/home/ROS/ros_ws/install
+
+Name: eth_exec_3
+Description: Description of eth_exec_3
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: roscpp sensor_msgs geometry_msgs visualization_msgs tf

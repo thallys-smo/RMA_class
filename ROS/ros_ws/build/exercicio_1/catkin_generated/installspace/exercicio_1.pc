@@ -1,0 +1,8 @@
+prefix=/home/ROS/ros_ws/install
+
+Name: exercicio_1
+Description: Description of exercicio_1
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,4 @@
+[35m[1mScanning dependencies of target pillar_detection_node[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/pillar_detection_node.dir/src/pillar_detection_node.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/ROS/ros_ws/devel/.private/eth_exec_3/lib/eth_exec_3/pillar_detection_node[0m
+[100%] Built target pillar_detection_node

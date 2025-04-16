@@ -1,0 +1,59 @@
+[35m[1mScanning dependencies of target roscpp_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target roscpp_generate_messages_eus[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target roscpp_generate_messages_py[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target _exercicio_2_generate_messages_check_deps_AddTwoInts[0m
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target roscpp_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_cpp[0m
+[  0%] Built target rosgraph_msgs_generate_messages_eus
+[  0%] Built target rosgraph_msgs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target roscpp_generate_messages_cpp[0m
+[  0%] Built target rosgraph_msgs_generate_messages_lisp
+[  0%] Built target roscpp_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target roscpp_generate_messages_nodejs
+[  0%] Built target roscpp_generate_messages_lisp
+[  0%] Built target roscpp_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target rosgraph_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_nodejs[0m
+[  0%] Built target roscpp_generate_messages_cpp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target _exercicio_2_generate_messages_check_deps_AddTwoInts
+[35m[1mScanning dependencies of target exercicio_2_generate_messages_py[0m
+[35m[1mScanning dependencies of target exercicio_2_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target exercicio_2_generate_messages_eus[0m
+[35m[1mScanning dependencies of target exercicio_2_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target exercicio_2_generate_messages_cpp[0m
+[  9%] [34m[1mGenerating Python code from SRV exercicio_2/AddTwoInts[0m
+[ 18%] [34m[1mGenerating Lisp code from exercicio_2/AddTwoInts.srv[0m
+[ 54%] [34m[1mGenerating EusLisp manifest code for exercicio_2[0m
+[ 54%] [34m[1mGenerating Javascript code from exercicio_2/AddTwoInts.srv[0m
+[ 54%] [34m[1mGenerating C++ code from exercicio_2/AddTwoInts.srv[0m
+[ 54%] [34m[1mGenerating EusLisp code from exercicio_2/AddTwoInts.srv[0m
+[ 54%] Built target exercicio_2_generate_messages_lisp
+[ 54%] Built target exercicio_2_generate_messages_nodejs
+[ 63%] [34m[1mGenerating Python srv __init__.py for exercicio_2[0m
+[ 63%] Built target exercicio_2_generate_messages_cpp
+[ 63%] Built target exercicio_2_generate_messages_py
+[ 63%] Built target exercicio_2_generate_messages_eus
+[35m[1mScanning dependencies of target add_two_ints_server[0m
+[35m[1mScanning dependencies of target exercicio_2_generate_messages[0m
+[35m[1mScanning dependencies of target add_two_ints_client[0m
+[ 72%] [32mBuilding CXX object CMakeFiles/add_two_ints_server.dir/src/add_two_ints_server.cpp.o[0m
+[ 72%] Built target exercicio_2_generate_messages
+[ 81%] [32mBuilding CXX object CMakeFiles/add_two_ints_client.dir/src/add_two_ints_client.cpp.o[0m
+[ 90%] [32m[1mLinking CXX executable /home/ROS/ros_ws/devel/.private/exercicio_2/lib/exercicio_2/add_two_ints_client[0m
+[100%] [32m[1mLinking CXX executable /home/ROS/ros_ws/devel/.private/exercicio_2/lib/exercicio_2/add_two_ints_server[0m
+[100%] Built target add_two_ints_client
+[100%] Built target add_two_ints_server

@@ -1,0 +1,24 @@
+exercicio_2
+/home/ROS/ros_ws/devel/.private/exercicio_2/cmake.lock /home/ROS/ros_ws/devel/./cmake.lock
+/home/ROS/ros_ws/devel/.private/exercicio_2/include/exercicio_2/AddTwoIntsRequest.h /home/ROS/ros_ws/devel/include/exercicio_2/AddTwoIntsRequest.h
+/home/ROS/ros_ws/devel/.private/exercicio_2/include/exercicio_2/AddTwoInts.h /home/ROS/ros_ws/devel/include/exercicio_2/AddTwoInts.h
+/home/ROS/ros_ws/devel/.private/exercicio_2/include/exercicio_2/AddTwoIntsResponse.h /home/ROS/ros_ws/devel/include/exercicio_2/AddTwoIntsResponse.h
+/home/ROS/ros_ws/devel/.private/exercicio_2/lib/exercicio_2/add_two_ints_server /home/ROS/ros_ws/devel/lib/exercicio_2/add_two_ints_server
+/home/ROS/ros_ws/devel/.private/exercicio_2/lib/exercicio_2/add_two_ints_client /home/ROS/ros_ws/devel/lib/exercicio_2/add_two_ints_client
+/home/ROS/ros_ws/devel/.private/exercicio_2/lib/python3/dist-packages/exercicio_2/__init__.py /home/ROS/ros_ws/devel/lib/python3/dist-packages/exercicio_2/__init__.py
+/home/ROS/ros_ws/devel/.private/exercicio_2/lib/python3/dist-packages/exercicio_2/srv/_AddTwoInts.py /home/ROS/ros_ws/devel/lib/python3/dist-packages/exercicio_2/srv/_AddTwoInts.py
+/home/ROS/ros_ws/devel/.private/exercicio_2/lib/python3/dist-packages/exercicio_2/srv/__init__.py /home/ROS/ros_ws/devel/lib/python3/dist-packages/exercicio_2/srv/__init__.py
+/home/ROS/ros_ws/devel/.private/exercicio_2/lib/pkgconfig/exercicio_2.pc /home/ROS/ros_ws/devel/lib/pkgconfig/exercicio_2.pc
+/home/ROS/ros_ws/devel/.private/exercicio_2/share/common-lisp/ros/exercicio_2/srv/_package.lisp /home/ROS/ros_ws/devel/share/common-lisp/ros/exercicio_2/srv/_package.lisp
+/home/ROS/ros_ws/devel/.private/exercicio_2/share/common-lisp/ros/exercicio_2/srv/AddTwoInts.lisp /home/ROS/ros_ws/devel/share/common-lisp/ros/exercicio_2/srv/AddTwoInts.lisp
+/home/ROS/ros_ws/devel/.private/exercicio_2/share/common-lisp/ros/exercicio_2/srv/exercicio_2-srv.asd /home/ROS/ros_ws/devel/share/common-lisp/ros/exercicio_2/srv/exercicio_2-srv.asd
+/home/ROS/ros_ws/devel/.private/exercicio_2/share/common-lisp/ros/exercicio_2/srv/_package_AddTwoInts.lisp /home/ROS/ros_ws/devel/share/common-lisp/ros/exercicio_2/srv/_package_AddTwoInts.lisp
+/home/ROS/ros_ws/devel/.private/exercicio_2/share/exercicio_2/cmake/exercicio_2-msg-extras.cmake /home/ROS/ros_ws/devel/share/exercicio_2/cmake/exercicio_2-msg-extras.cmake
+/home/ROS/ros_ws/devel/.private/exercicio_2/share/exercicio_2/cmake/exercicio_2Config.cmake /home/ROS/ros_ws/devel/share/exercicio_2/cmake/exercicio_2Config.cmake
+/home/ROS/ros_ws/devel/.private/exercicio_2/share/exercicio_2/cmake/exercicio_2Config-version.cmake /home/ROS/ros_ws/devel/share/exercicio_2/cmake/exercicio_2Config-version.cmake
+/home/ROS/ros_ws/devel/.private/exercicio_2/share/exercicio_2/cmake/exercicio_2-msg-paths.cmake /home/ROS/ros_ws/devel/share/exercicio_2/cmake/exercicio_2-msg-paths.cmake
+/home/ROS/ros_ws/devel/.private/exercicio_2/share/roseus/ros/exercicio_2/manifest.l /home/ROS/ros_ws/devel/share/roseus/ros/exercicio_2/manifest.l
+/home/ROS/ros_ws/devel/.private/exercicio_2/share/roseus/ros/exercicio_2/srv/AddTwoInts.l /home/ROS/ros_ws/devel/share/roseus/ros/exercicio_2/srv/AddTwoInts.l
+/home/ROS/ros_ws/devel/.private/exercicio_2/share/gennodejs/ros/exercicio_2/_index.js /home/ROS/ros_ws/devel/share/gennodejs/ros/exercicio_2/_index.js
+/home/ROS/ros_ws/devel/.private/exercicio_2/share/gennodejs/ros/exercicio_2/srv/_index.js /home/ROS/ros_ws/devel/share/gennodejs/ros/exercicio_2/srv/_index.js
+/home/ROS/ros_ws/devel/.private/exercicio_2/share/gennodejs/ros/exercicio_2/srv/AddTwoInts.js /home/ROS/ros_ws/devel/share/gennodejs/ros/exercicio_2/srv/AddTwoInts.js
